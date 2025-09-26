@@ -1,5 +1,5 @@
 # tldr
-PORT=8545 UPSTREAM_URL=https://scroll.rpc.hypersync.xyz LOG_CHUNK_SIZE=100000 pnpm dev
+`PORT=8545 UPSTREAM_URL=https://scroll.rpc.hypersync.xyz LOG_CHUNK_SIZE=100000 pnpm dev`
 
 # Logs RPC Chunking Proxy
 
